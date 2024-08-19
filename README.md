@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
-#### 置顶热门库
+#### 常用热门库
 
 <a href="https://github.com/cmliu/edgetunnel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmliu&repo=edgetunnel&theme=buefy" />
