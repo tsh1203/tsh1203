@@ -18,6 +18,20 @@ Here are some ideas to get you started:
 | <a href="https://github.com/yutian81"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yutian81&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true" alt="yutian81's github stats" /></a> | <a href="https://github.com/yutian81"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutian81&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmliu&repo=edgetunnel&show_owner&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fscarmen2&repo=Argo-Nezha-Service-Container&show_owner=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eooce&repo=Sing-box&show_owner=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bh-qt&repo=Cloudflare-IP-SpeedTest&show_owner=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+#### 置顶热门库
+
+<a href="https://github.com/cmliu/edgetunnel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cmliu&repo=edgetunnel&theme=buefy" />
+</a>
+<a href="https://github.com/fscarmen2/Argo-Nezha-Service-Container">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fscarmen2&repo=Argo-Nezha-Service-Container&theme=buefy" />
+</a>
+<br />
+<a href="https://github.com/eooce/Sing-box">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eooce&repo=Sing-box&theme=buefy" />
+</a>
+<a href="https://github.com/bh-qt/Cloudflare-IP-SpeedTest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bh-qt&repo=Cloudflare-IP-SpeedTest&theme=buefy" />
+</a>
+<br />
