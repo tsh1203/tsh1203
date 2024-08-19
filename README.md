@@ -1,5 +1,7 @@
 ## 既然来了，就留下你的 Star 吧！ 👋
 
+我是一个对各种技术充满热情的小白！你可以[请我喝杯咖啡](https://blog.24811213.xyz/donate/)，我可以与你分享更多好玩的项目！
+
 <!--
 **yutian81/yutian81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
