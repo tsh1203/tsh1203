@@ -2,6 +2,8 @@
 
 我是一个对各种技术充满热情的小白！你可以[请我喝杯咖啡](https://blog.24811213.xyz/donate/)，我可以与你分享更多好玩的项目！
 
+[![我的博客](https://img.shields.io/badge/my_blog-我的博客-8A2BE2)](https://blog.24811213.xyz)&nbsp;&nbsp;&nbsp;&nbsp;[![短链服务](https://img.shields.io/badge/short_link-短链服务-8A2BE2)](https://slink.yutian81.top/duanlian)&nbsp;&nbsp;&nbsp;&nbsp;[![短链服务](https://img.shields.io/badge/webssh-在线ssh服务-8A2BE2)](https://ssh.yzong.us.kg)&nbsp;&nbsp;&nbsp;&nbsp;[![显示本机IP](https://img.shields.io/badge/your_ip-本机IP查询-8A2BE2)](https://ip.yutian81.top)
+
 <!--
 **yutian81/yutian81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
