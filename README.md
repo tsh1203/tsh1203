@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/yutian81"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yutian81&show_icons=true&hide=contribs&theme=default&hide_border=true" alt="yutian81's github stats" /></a> | <a href="https://github.com/yutian81"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutian81&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/yutian81"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yutian81&show_icons=true&hide=contribs&theme=ambient_gradient&hide_border=true" alt="yutian81's github stats" /></a> | <a href="https://github.com/yutian81"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutian81&layout=compact&theme=ambient_gradient&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmliu&repo=edgetunnel&show_owner&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fscarmen2&repo=Argo-Nezha-Service-Container&show_owner=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)   
